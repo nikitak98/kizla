@@ -1,0 +1,29 @@
+html, body {margin:0;padding:0;height:100%;}
+
+body {
+	background-color: #edefed;
+	margin:0; 
+	padding:0;
+}
+
+.nav {
+	font-family: Agency FB;
+}
+
+.nav a {
+	font-size: 20px;
+	text-transform: uppercase;
+	color: white;
+}
+
+.navbar-brand {
+	font-family: Agency FB;
+	font-size: 25px;
+}
+
+#map { 
+	position:absolute; 
+	top:50px; 
+	bottom:0; 
+	width:100%; 
+}
